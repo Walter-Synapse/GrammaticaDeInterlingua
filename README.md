@@ -1,5 +1,7 @@
 # Grammatica de Interlingua
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Walter-Synapse/GrammaticaDeInterlingua)
+
 > **Projecto pro le Studio e Referentia Complete del Lingua International (IALA)**
 
 Benvenite al repositorio official de documentation e studio de **Interlingua de IALA**. Iste repositorio contine le texto integral del *Grammatica de Interlingua* (Alexander Gode e Hugh E. Blair, traduction per Selahattin Kayalar), structurate in formato Markdown pro facilitar le lectura, recerca e comprehension per personas e agentes de intelligentia artificial (como Devin, DeepWiki, Claude o Gemini).
